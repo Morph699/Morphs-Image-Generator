@@ -1,5 +1,7 @@
 ### Morphs Creations AI Image Generator v1.50
 
+<img width="496" height="1024" alt="1787254192252-01a020a6-29e5-785a-bcab-fae9fadd53e7" src="https://github.com/user-attachments/assets/9d5adcfc-e9a7-4c23-bc22-649f055deb6e" />
+
 ### Short Description
 
 Unleash premium AI art creation, custom meme typography styling, and dual-engine layout battles in one lightweight, themeable studio! Zero ads. No watermarks.
@@ -23,5 +25,3 @@ Whether you want to build clean text-to-image concept sketches, leverage your ow
 ### Transparent Funding & Support
 
 This project is built and maintained entirely by an independent creator. There are no corporate tracking networks or hidden background server logging logs here. Every single tip or key activation directly buys compute time and keeps this independent workspace running! 
-
-<img width="1318" height="1304" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e29e1a53-1bb5-4f73-9b54-565e99dce755" />
