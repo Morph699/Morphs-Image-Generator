@@ -1,19 +1,27 @@
-[# Morphs_Creations_Image_Generation
-The standalone module Morphs_Creations_Image_Generation v0.35 is fully deployed, optimized, and stabilized with the following feature set:
-Aesthetic & Layout Specification:
-mode con:cols=78 lines=26, color 0A, UTF-8 (chcp 65001).
-Dynamic multi-colored startup banner and custom ß block character UI headers.
-Core AI Engine & Model Routing:
-Default Engine: Nano Banana (Google Gemini Flash Image).
-Supported Models: FLUX.1 Schnell, FLUX Realism, FLUX Anime, FLUX 3D, Midjourney Style, Turbo Diffusion, and GPT Image (OpenAI).
-Aspect Ratio & Resolution Matrix:
-Formats: 16:9, 1:1, 9:16, 4:3, 21:9.
-Quality Tiers: SD (1024), 1080p (Full HD), 2K (QHD), 4K (UHD), 8K (Master Quality).
-Output Quality & Post-Processing:
-Lossless PNG Pipeline: Primary file output target switched to .png.
-Proportional Resampler: Integrated .NET System.Drawing high-quality bicubic resampler with center-crop proportional fitting. Prevents aspect distortion (circles stay 100% round).
-Micro-Detail Prompt Enhancer: Injects high-frequency quality tags (masterpiece, highly detailed dragon scales, intricate mandala patterns, sharp focus) to synthesize fine micro-textures at the diffusion level.
-Metadata Sidecar Logging:
-Automatically generates matching .txt log files (AI_Gen_12345678.txt) alongside generated PNGs containing timestamp, prompt, enhanced prompt, seed, model engine, aspect ratio, quality tier, and API target URL.](https://private-
+### Morphs Creations AI Image Generator v1.50
 
-<img width="1053" height="968" alt="image" src="https://github.com/user-attachments/assets/c3eb889c-e9a6-408a-ac6d-82eff7b9ec80" />
+### Short Description
+
+Unleash premium AI art creation, custom meme typography styling, and dual-engine layout battles in one lightweight, themeable studio! Zero ads. No watermarks.
+
+### Full Description
+
+Morphs Creations AI Image Generator (v1.50) the ultimate pocket-sized generation workstation built specifically for independent digital creators, meme-makers, and prompt engineers. 
+
+Forget bloated, slow websites that burn your mobile data. Morphs Creations runs inside a data-conscious layout, packing optional frame compression engines that downscale outputs into ultra-lightweight payloads (~40KB) optimized for instantaneous updates, quick cloud saving, and low network latency. 
+
+Whether you want to build clean text-to-image concept sketches, leverage your own photographs inside an intuitive Img2Img workflow, or generate transparent vector stickers, Morphs Creations scales seamlessly to match your creative drive. 
+
+### Key Features
+
+* **9 High-Contrast UI Interfaces**: Personalize your canvas instantly! Toggle dynamically between standard Light Slate, Stealth Charcoal, Matrix Green Gamer Theme, Dracula Purple, and Cyberpunk Pink.
+* **AI Arena Mode (Dual Comparison)**: Unlock side-by-side workflow capabilities. Render using two independent engine passes (like FLUX 3D Render vs FLUX Realism) on a stacked top/bottom split frame to choose your ultimate output.
+* **Sticker Studio & Viral Meme Canvas**: Quickly overlay classic Impact text captions with a built-in auto-fit system. Add die-cut white outline filters perfect for instantly saving community sticker sheets.
+* **Independent Crypto Key Engine**: Manage and verify your application license tiers directly through the standalone Morphs Signature validator panel.
+* **Flexible Generation Metrics**: Choose from standard monitoring aspect ratios (1:1, 9:16, 16:9) and premium high-fidelity outputs up to 4K and 8K master PNG qualities.
+
+### Transparent Funding & Support
+
+This project is built and maintained entirely by an independent creator. There are no corporate tracking networks or hidden background server logging logs here. Every single tip or key activation directly buys compute time and keeps this independent workspace running! 
+
+<img width="1318" height="1304" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e29e1a53-1bb5-4f73-9b54-565e99dce755" />
