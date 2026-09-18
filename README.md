@@ -1,118 +1,95 @@
-Morphs Creations AI Image Generator v1.57 
+<img width="1776" height="2368" alt="1789745651552-01a0b525-e082-7cf3-8902-0ba22ee7c5f0" src="https://github.com/user-attachments/assets/f52c80fb-63ce-41a3-9855-bc7396c54cad" />
 
-<img width="1024" height="1536" alt="1788289504561-01a05e5b-3bce-72d5-98ea-ffcb34a6e6b1" src="https://github.com/user-attachments/assets/0eb38fdd-b8ed-4a86-813a-29fe1fc582b5" />
+🐉 Morphs Creations AI Image Generator Suite (v1.75)
 
-Morphs Creations AI Image Generator is a lightweight, studio-grade AI creative
-powerhouse built for speed, creative exploration, and high-fidelity visual
-rendering. Designed specifically as a zero-bloat Single Page Application (SPA)
-optimized for mobile and desktop, the full creative toolset right out of the box—with zero paywalls, zero token gating, and
-unlimited high-resolution image generations.
+Professional Multi-Engine Neural Canvas, AI Arena & Visual Design Studio
 
-Whether you are dreaming up cyberpunk concept art, transforming photos into
-distinct eras, creating viral memes, or putting top AI models head-to-head in
-the Arena, this app is crafted to make visual creation frictionless and fun.
+The Morphs Creations AI Image Generator Suite (v1.75) is a high-performance
+visual creation suite available for Windows Desktop and Android / Web
+Containers. Designed as an independent alternative to heavyweight,
+subscription-locked platforms, it unifies industry-leading diffusion engines,
+professional aspect ratios, automated graphic design pipelines, and zero-latency
+workflows inside a lightweight, privacy-hardened environment.
 
-🎨 1. Tailored Visual Workspace (10 High-Contrast Themes)
+🌟 What Makes It Unique (Features Not Found in Standard AI Apps)
 
-The interface is designed around a sleek, zero-distraction HUD that adapts to
-your environment and lighting preferences. It includes 10 bespoke high-contrast
-themes engineered with custom color-scheme overrides to ensure light themes stay
-crisp and dark modes stay deep—even on phones with forced OS darkening:
+1.  ⚔️ Dual-Engine "AI Arena" Comparison Mode: Renders a side-by-side vertical
+    split comparing two separate neural models on the exact same seed and prompt
+    (e.g., Turbo Diffusion vs. FLUX Realism, or randomized AI vs. AI), joined by
+    a cyan studio divider. Any added meme captions or titles automatically
+    render across both panels simultaneously in exact alignment.
+2.  📐 0% Clipping Dynamic Vector Text Auto-Scaler: Never suffer cut-off captions
+    again. The built-in Meme Studio uses an adaptive measurement loop that
+    decrements font size until both top and bottom text strings fit inside
+    an 88% width boundary, guaranteeing clean layout across every resolution.
+3.  📸 Smart Camera Subject Interceptor: When ingesting raw photos from device
+    cameras with generic filenames (IMG_, PXL_, DSC_, Screenshot_), the app
+    intercepts the file and prompts you to isolate the subject (e.g., "brown
+    puppy sleeping on lap"). It then injects contextual transformation
+    directives into the prompt, keeping the subject recognizable while applying
+    the new art style.
+4.  🧹 Corner-Sampling Anti-Watermark Inpainter: An automated post-processing
+    filter scans the bottom-right quadrant, samples clean adjacent pixels
+    directly above it, and blits them down to remove vendor watermarks and logos
+    without blurring the master graphic.
+5.  🛡️ Android Hardware Back-Button Shield: Running inside mobile browsers or
+    WebViews (such as AppCreator24), pressing the Android hardware back button
+    no longer closes or exits the app. An integrated history state stack catches
+    the back button and cleanly dismisses whatever modal dialog is currently
+    open.
+6.  🌐 Self-Healing Silent Failover Mesh: If a network node or API endpoint
+    experiences latency or drops a request, the generation engine cycles through
+    downstream diffusion fallback models silently, ensuring uninterrupted
+    output.
+7.  🏷️ Die-Cut White Outline Sticker Studio: One-click vectorization mode that
+    formats prompts and post-processing to generate high-contrast, die-cut
+    vector stickers with crisp white outline borders on dark backgrounds.
 
-1.  Dark Mode (Stealth): Modern deep-space dark aesthetic with slate accents.
-2.  Light Mode (Soft Slate): Clean, crisp, high-visibility daylight mode.
-3.  Gamer (Matrix Green): Retro terminal vibes with vibrant phosphor green glow.
-4.  Blood Matrix (Cyber Red): High-octane crimson aesthetic on pitch-black
-    canvas.
-5.  Cyber Yellow: High-contrast industrial yellow inspired by futuristic UI
-    consoles.
-6.  Cyberpunk Pink: Vibrant neon synth magenta with cyan text highlights.
-7.  Nordic Frost: Cool icy blues with deep navy backing.
-8.  Dracula Purple: Sophisticated dark purple and pastel violet tones.
-9.  Sunset Amber: Warm autumn glow with deep wood and amber accents.
-10. Solarized Ocean: Calming teal and marine blue contrast.
+⚡ Core Generation & Studio Capabilities
 
-(Paired with a 4-Tier Font Scaling Engine—Small, Medium, Large, Extra
-Large—ensuring comfortable legibility on any screen size.)
+  - Multi-Model Neural Arsenal:
+      - Turbo Diffusion: Priority #1 ultra-fast engine producing complete
+        compositions in under 2 seconds.
+      - FLUX.1 Schnell & FLUX Realism: Exceptional dynamic range, natural skin
+        textures, and balanced lighting.
+      - FLUX Kontext & FLUX.2 Klein: Dedicated image-to-image engines built for
+        contextual transformations.
+      - FLUX Anime & FLUX 3D Render: Stylized Japanese cell shading, clean line
+        art, and 3D Octane geometry.
+      - Midjourney Master: Cinematic atmosphere, moody compositions, and
+        dramatic chiaroscuro contrast.
+  - Cinematic Framing & Master Resolutions:
+      - Aspect Ratios: 1:1 Square, 9:16 Mobile Portrait/Stories, 4:3 Standard
+        Monitor, 16:9 Widescreen HD, and 21:9 Ultrawide Cinema.
+      - Quality Profiles: SD (Base 1024), 1080p Full HD, 2K QHD Studio
+        (2560×1440), 4K UHD Master (3840×2160), and 8K Cinema Master (7680×4320)
+        powered by high-quality bicubic interpolation.
+  - 80 Million+ Combinatorial Prompt Randomizer: A built-in combinatorial engine
+    that constructs detailed prompts by combining subjects, complex
+    environments, volumetric god rays, chiaroscuro lighting, and high-detail
+    render tags.
+  - Time-Travel Era Presets: Instant style overlays including Anime / Manga
+    Cell-Shaded, 1920s Gangster Daguerreotype, Claymation Stop-Motion, 80s Retro
+    Synthwave, Dark Medieval Gritty Oil, Dark Knight Cinematic, and Hyper
+    Cyberpunk Cityscape.
 
-🛠️ 2. The 5-Stack Creative Studio
+🎨 Workspace, Theming & System Integration
 
-🎲 Prompt & Era Engine (80M+ Combinations)
-
-  - One-Tap Prompt Roulette: Never suffer from creative block. The built-in
-    generator draws from an 80-million-combination matrix of subjects,
-    atmospheric environments, volumetric lighting setups, and textural details.
-  - Time Travel / AI Era Presets: Instantly shift your scene across iconic
-    visual styles:
-      - Anime / Manga Cell-Shaded
-      - 1920s Gangster Daguerreotype
-      - Claymation Stop-Motion
-      - 80s Retro Synthwave
-      - Dark Medieval Oil Painting
-      - Dark Knight Cinematic
-      - Hyper Cyberpunk Cityscape
-
-📸 Img2Img & Smart Photo Subject Identifier
-
-  - Upload any photo from your device or camera to use as a visual base.
-  - Auto-Subject Modal: Uploading generic camera files (IMG_, PXL_, DSC_)
-    automatically prompts you to name the primary subject (e.g., "Brown dog on
-    rug"), cleanly injecting context for spot-on stylization.
-
-🎭 AI Meme Canvas & Sticker Studio
-
-  - Built-in vector typography engine that turns your AI creations into viral
-    memes or poster designs in seconds.
-  - Dynamic Auto-Downscaling: Guarantees 0% text clipping, cleanly calculating
-    font boundaries across your custom top and bottom text.
-  - Typography Suite: Choose from classic fonts (Impact, Arial Black, Comic
-    Sans, Trebuchet, Verdana) across 7 bold colors (White, Yellow, Cyan, Neon
-    Green, Hot Pink, Red, Gold).
-
-⚔️ AI Arena Comparison Mode
-
-  - Run two different AI engines simultaneously on the exact same prompt.
-  - Renders a stacked dual-image comparison stitched with a glowing cyan
-    divider.
-  - Test model strengths (e.g., Photorealism vs. Anime, or FLUX Schnell vs.
-    Turbo) or hit 🎲 Auto-Randomize for surprise AI-vs-AI battles.
-  - Any active meme text automatically maps synchronously across both rendered
-    frames.
-
-⚙️ Studio Frame & Engine Parameters
-
-  - Top AI Engines: Switch between FLUX.1 Schnell, FLUX Kontext, FLUX.2 Klein,
-    Turbo Diffusion, FLUX Realism, FLUX Anime, FLUX 3D Render, and Midjourney
-    Master.
-  - Aspect Ratios: Tailor your output for any screen:
-      - 1:1 Square (Feed posts & avatars)
-      - 9:16 Vertical Portrait (Stories, TikTok, Reels, Mobile Wallpapers)
-      - 4:3 Classic Monitor
-      - 16:9 Widescreen HD (Desktop & Video)
-      - 21:9 Ultrawide Cinema
-  - Quality Tiers: Generate across SD Base (1024), 1080p Full HD, 2K QHD, 4K UHD
-    Master, and 8K Cinema Master.
-  - Detail Presets: Inject one-click render quality including Cinematic Octane,
-    Dark Fantasy Masterwork, Masterpiece 8K, and Photorealistic RAW 8K.
-
-⚡ 3. Why You Will Enjoy Using It
-
-  - ∞ Truly Unlimited Generations: No credits, no daily limits, and no cooldown
-    timers. Generate as many variations as your imagination demands.
-  - Bulletproof Silent Failover: Built-in multi-node fallback automatically
-    handles network dips and busy engines behind the scenes. You get your
-    graphic without breaking your flow.
-  - True Android Native File Sharing: Tapping Share converts the graphic
-    synchronously to an image file and opens your device's native share
-    tray—allowing you to send the actual PNG graphic file directly into WhatsApp
-    chats, Instagram Stories, Telegram, or any installed app.
-  - Local Persistence (IndexedDB): Accidental refresh or app backgrounding? Your
-    latest generation, prompt, and active canvas state are saved locally and
-    restored automatically when you return.
-  - Instant Export: Download full-resolution, uncompressed PNG files directly to
-    your device gallery with a single tap.
-
-In Summary
-
-The Morphs Creations Image Gen v1.57 delivers an agile, responsive, and feature-complete AI art studio directly into your browser or web
-app container—built with care for creators, designers, and enthusiasts who want fast, powerful, and unlimited visual generation.
+  - 10 High-Contrast Themes:
+      - Light / Standard: Soft Slate (Light), Dark Mode (Stealth).
+      - High Contrast & Cyber: Matrix Green, Cyber Yellow, Cyberpunk Pink,
+        Dracula Purple, Blood Matrix (Cyber Red), Nordic Frost, Solarized Ocean,
+        and Sunset Amber.
+  - 4-Tier Dynamic Font Scaling: Small (8.0pt / 9.5px), Medium (9.0pt / 11.5px),
+    Large (11.0pt / 13.5px), and Extra Large (12.5pt / 15.0px) for legibility
+    across monitors and mobile screens.
+  - Anti-Force Dark Mode Protection: Custom meta rules that prevent mobile
+    browsers and Chromium engines from inverting colors on light themes.
+  - Unified Export Engine:
+      - 1-Click PNG file saving with native download triggers.
+      - Windows Clipboard graphic copy.
+      - Direct Web Share API integration (attaching the actual .png image
+        directly to WhatsApp, Instagram Stories, Telegram, or the native device
+        share sheet).
+      - Real-time telemetry log console with 1-click clipboard copy, plain .TXT
+        export, and structured JSON / CSV data dumps.
