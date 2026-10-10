@@ -1,95 +1,62 @@
-<img width="1776" height="2368" alt="1789745651552-01a0b525-e082-7cf3-8902-0ba22ee7c5f0" src="https://github.com/user-attachments/assets/f52c80fb-63ce-41a3-9855-bc7396c54cad" />
+<img width="1024" height="1536" alt="Image Gen" src="https://github.com/user-attachments/assets/0579cd25-f131-4032-8536-38289d58318d" />
 
-🐉 Morphs Creations AI Image Generator Suite (v1.75)
+🐉 Morphs Image Generator Suite (v2.37)
 
-Professional Multi-Engine Neural Canvas, AI Arena & Visual Design Studio
+High-Performance Neural AI Art Studio, Dual-Engine Arena & Graphic Utility Suite
 
-The Morphs Creations AI Image Generator Suite (v1.75) is a high-performance
-visual creation suite available for Windows Desktop and Android / Web
-Containers. Designed as an independent alternative to heavyweight,
-subscription-locked platforms, it unifies industry-leading diffusion engines,
-professional aspect ratios, automated graphic design pipelines, and zero-latency
-workflows inside a lightweight, privacy-hardened environment.
+Morphs Image Generator Suite is a lightweight, zero-bloat AI creation
+workstation engineered for creators, designers, and power users. Available as an
+Android / Web PWA application and a standalone native Windows Desktop GUI, the
+suite pairs instant, watermark-free neural diffusion generation with
+professional editing tools, intelligent failover pipelines, and an accessible,
+high-contrast user interface.
 
-🌟 What Makes It Unique (Features Not Found in Standard AI Apps)
+⚡ Key Highlights & Core Capabilities
 
-1.  ⚔️ Dual-Engine "AI Arena" Comparison Mode: Renders a side-by-side vertical
-    split comparing two separate neural models on the exact same seed and prompt
-    (e.g., Turbo Diffusion vs. FLUX Realism, or randomized AI vs. AI), joined by
-    a cyan studio divider. Any added meme captions or titles automatically
-    render across both panels simultaneously in exact alignment.
-2.  📐 0% Clipping Dynamic Vector Text Auto-Scaler: Never suffer cut-off captions
-    again. The built-in Meme Studio uses an adaptive measurement loop that
-    decrements font size until both top and bottom text strings fit inside
-    an 88% width boundary, guaranteeing clean layout across every resolution.
-3.  📸 Smart Camera Subject Interceptor: When ingesting raw photos from device
-    cameras with generic filenames (IMG_, PXL_, DSC_, Screenshot_), the app
-    intercepts the file and prompts you to isolate the subject (e.g., "brown
-    puppy sleeping on lap"). It then injects contextual transformation
-    directives into the prompt, keeping the subject recognizable while applying
-    the new art style.
-4.  🧹 Corner-Sampling Anti-Watermark Inpainter: An automated post-processing
-    filter scans the bottom-right quadrant, samples clean adjacent pixels
-    directly above it, and blits them down to remove vendor watermarks and logos
-    without blurring the master graphic.
-5.  🛡️ Android Hardware Back-Button Shield: Running inside mobile browsers or
-    WebViews (such as AppCreator24), pressing the Android hardware back button
-    no longer closes or exits the app. An integrated history state stack catches
-    the back button and cleanly dismisses whatever modal dialog is currently
-    open.
-6.  🌐 Self-Healing Silent Failover Mesh: If a network node or API endpoint
-    experiences latency or drops a request, the generation engine cycles through
-    downstream diffusion fallback models silently, ensuring uninterrupted
-    output.
-7.  🏷️ Die-Cut White Outline Sticker Studio: One-click vectorization mode that
-    formats prompts and post-processing to generate high-contrast, die-cut
-    vector stickers with crisp white outline borders on dark backgrounds.
+  - Autonomous 5-Tier Failover Neural Mesh: Say goodbye to failed requests and
+    timeout errors. Every prompt routes through a smart fallback sequence (Turbo
+    Diffusion ➔ FLUX.1 Schnell ➔ FLUX Realism ➔ FLUX Anime ➔ Klein ➔ Emergency
+    Node) with built-in API concurrency protection, delivering 100% generation
+    reliability.
+  - ⚔️ AI Arena Comparison Mode: Render two AI engines side-by-side on a
+    stitched vertical canvas with an integrated divider bar. Test and compare
+    models (e.g., Turbo speed vs. FLUX raw detail) with synchronized typography
+    and memory-shielded rendering.
+  - 📸 Img2Img Reference Subject Injection: Upload any photo or sketch to
+    transform, reimagine, or restyle subjects while preserving structural
+    intent.
+  - 🎨 Integrated AI Meme & Sticker Studio:
+      - Zero-Clipping Meme Typography: Custom auto-fitting text engine in
+        classic Impact, Consolas, Arial Black, and more. Guarantees top and
+        bottom text never gets cut off or overflows.
+      - Sticker Studio: Generate clean, isolated die-cut vector illustrations
+        with sharp white silhouette contours ready for export.
+  - 🧹 Active Anti-Watermark Inpainting: Automatic corner blit inpainting
+    (26\% \text{ W} \times 7.5\% \text{ H}) eliminates upstream watermarks
+    before export without blurring core details.
+  - 🖼️ Local Bicubic Supersampling (Up to 8K): Generates fast,
+    network-clamped 1024×1024 streams and upscales locally on your device into
+    1080p Full HD, 2K QHD Studio, 4K UHD Master, or 8K Cinema Master
+    resolutions.
+  - 📥 Seamless 3-Stage Save & Export Engine:
+      - Android Container / WebView: Built-in ephemeral HTTPS bridge routes
+        files straight to the Android system DownloadManager, complete with
+        notification tray progress and direct saves to your /Download folder.
+      - Native Share Sheet: Instantly pipe generated files to WhatsApp,
+        Instagram, Telegram, or device files.
+      - Desktop: Direct Windows Clipboard graphic copying and high-resolution
+        PNG/JPG saving.
+  - 👁️ 10 High-Contrast WCAG AAA Themes & 4-Tier Font Scaling: Calibrated for
+    maximum legibility in any environment, from the default Soft Slate (Light)
+    to Dark Stealth, Blood Matrix, Cyberpunk Pink, Dracula Purple, and Matrix
+    Green.
 
-⚡ Core Generation & Studio Capabilities
+💻 System Requirements & Platforms
 
-  - Multi-Model Neural Arsenal:
-      - Turbo Diffusion: Priority #1 ultra-fast engine producing complete
-        compositions in under 2 seconds.
-      - FLUX.1 Schnell & FLUX Realism: Exceptional dynamic range, natural skin
-        textures, and balanced lighting.
-      - FLUX Kontext & FLUX.2 Klein: Dedicated image-to-image engines built for
-        contextual transformations.
-      - FLUX Anime & FLUX 3D Render: Stylized Japanese cell shading, clean line
-        art, and 3D Octane geometry.
-      - Midjourney Master: Cinematic atmosphere, moody compositions, and
-        dramatic chiaroscuro contrast.
-  - Cinematic Framing & Master Resolutions:
-      - Aspect Ratios: 1:1 Square, 9:16 Mobile Portrait/Stories, 4:3 Standard
-        Monitor, 16:9 Widescreen HD, and 21:9 Ultrawide Cinema.
-      - Quality Profiles: SD (Base 1024), 1080p Full HD, 2K QHD Studio
-        (2560×1440), 4K UHD Master (3840×2160), and 8K Cinema Master (7680×4320)
-        powered by high-quality bicubic interpolation.
-  - 80 Million+ Combinatorial Prompt Randomizer: A built-in combinatorial engine
-    that constructs detailed prompts by combining subjects, complex
-    environments, volumetric god rays, chiaroscuro lighting, and high-detail
-    render tags.
-  - Time-Travel Era Presets: Instant style overlays including Anime / Manga
-    Cell-Shaded, 1920s Gangster Daguerreotype, Claymation Stop-Motion, 80s Retro
-    Synthwave, Dark Medieval Gritty Oil, Dark Knight Cinematic, and Hyper
-    Cyberpunk Cityscape.
-
-🎨 Workspace, Theming & System Integration
-
-  - 10 High-Contrast Themes:
-      - Light / Standard: Soft Slate (Light), Dark Mode (Stealth).
-      - High Contrast & Cyber: Matrix Green, Cyber Yellow, Cyberpunk Pink,
-        Dracula Purple, Blood Matrix (Cyber Red), Nordic Frost, Solarized Ocean,
-        and Sunset Amber.
-  - 4-Tier Dynamic Font Scaling: Small (8.0pt / 9.5px), Medium (9.0pt / 11.5px),
-    Large (11.0pt / 13.5px), and Extra Large (12.5pt / 15.0px) for legibility
-    across monitors and mobile screens.
-  - Anti-Force Dark Mode Protection: Custom meta rules that prevent mobile
-    browsers and Chromium engines from inverting colors on light themes.
-  - Unified Export Engine:
-      - 1-Click PNG file saving with native download triggers.
-      - Windows Clipboard graphic copy.
-      - Direct Web Share API integration (attaching the actual .png image
-        directly to WhatsApp, Instagram Stories, Telegram, or the native device
-        share sheet).
-      - Real-time telemetry log console with 1-click clipboard copy, plain .TXT
-        export, and structured JSON / CSV data dumps.
+  - Android / Web Edition Modern mobile browsers (Chrome,
+    Firefox, Safari) or standalone hybrid containers (AppCreator24,
+    Web2Android). Fully touch-optimized with zero external dependencies.
+  - Windows Desktop Edition Windows 10 or Windows 11
+    (PowerShell 5.1+, .NET Framework 4.5+). Features a gothic fade-and-pulse
+    splash screen, multi-monitor boundary protection, and dual-layer local
+    JSON/Registry configuration persistence.
