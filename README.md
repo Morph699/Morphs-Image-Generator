@@ -1,6 +1,6 @@
 <img width="1024" height="1536" alt="Image Gen" src="https://github.com/user-attachments/assets/0579cd25-f131-4032-8536-38289d58318d" />
 
-🐉 Morphs Image Generator Suite (v2.37)
+🐉 Morphs Image Generator Suite 
 
 High-Performance Neural AI Art Studio, Dual-Engine Arena & Graphic Utility Suite
 
