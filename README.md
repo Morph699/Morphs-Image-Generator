@@ -1,4 +1,4 @@
-<img width="880" height="1184" alt="Image Gen" src="https://github.com/user-attachments/assets/6e940735-41a6-4e72-a948-8724baee4be6" />
+<img width="1280" height="1920" alt="1793188189117-01a18257-a80d-75ce-8a2d-2d77bb83de65" src="https://github.com/user-attachments/assets/ff32a7b2-5220-4832-9e53-6f456051ea85" />
 
 # Morphs Image Gen 
 
