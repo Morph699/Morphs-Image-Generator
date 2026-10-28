@@ -2,7 +2,7 @@
 
 # Morphs Image Gen 
 
-**Morphs Image Gen ** is a standalone, portable Windows desktop GUI designed for high-speed neural rendering, creative prompt design, and AI meme/sticker creation. Operating entirely without heavy Python runtimes, CUDA configurations, or multi-gigabyte local weights, the studio provides an ultra-lightweight client for FLUX, Turbo Diffusion, and photorealistic generation pipelines with zero setup friction.
+The **Morphs Image Generator** is a lightweight, ultra-responsive digital creation suite designed for artists, designers, and content creators. Powered by a flexible multi-engine neural pipeline, it delivers instantaneous concept rendering, photo re-imagining, die-cut vector sticker styling, and complete meme typography directly on your device with zero cloud lock-in.
 
 With the **update**, Morphs Image Gen integrates a dedicated **Personal API Key Engine**, allowing creators to hook directly into Pollinations VIP infrastructure to bypass public IP concurrency bottlenecks and rate-limit cooldowns entirely.
 
